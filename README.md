@@ -13,6 +13,7 @@ Core idea:
 ## Start here
 - Read the pitch: [`PITCH.md`](/pitch.md)
 - Sponsor and fulfillment model: [`SPONSORING.md`](/sponsoring.md)
+- Become a City Lead: [`RECRUITING.md`](/RECRUITING.md)
 - Report results after each event: [`metrics/after-action-report-template.md`](/metrics/after-action-report-template.md)
 
 ## How it works
