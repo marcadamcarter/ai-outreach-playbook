@@ -8,12 +8,12 @@ Source: Center for AI Safety; “Statement on AI Risk” (2023): https://safe.ai
 
 [I. J. Good](https://en.wikipedia.org/wiki/I._J._Good), one of the earliest voices to describe an “intelligence explosion,” put it in a single sentence:
 
-> “Thus the first ultraintelligent machine is the last invention that man need ever make, provided that the machine is docile enough to tell us how to keep it under control.”
+> “Thus the first ultraintelligent machine is the last invention that man need ever make, **provided that the machine is docile enough to tell us how to keep it under control**.”
 
 
 # Become a City Lead
 
-This project helps volunteers run calm, nonpartisan AI awareness outreach at recurring local events (art walks, First Friday, farmers markets, campus fairs, conferences). Sponsors provide standardized, high-quality tabling kits (flyers, QR cards, stickers, signage) and a QR landing page; City Leads do the on-the-ground work and report simple metrics so the model can improve and scale.
+This project helps volunteers run calm, nonpartisan AI awareness outreach at recurring local events (community events, art walks, farmers markets, campus fairs, conferences). Sponsors provide standardized, high-quality tabling kits (flyers, QR cards, stickers, signage) and a QR landing page; City Leads do the on-the-ground work and report simple metrics so the model can improve and scale.
 
 If you can show up consistently and talk to strangers with respect, and you believe the path to **artificial superintelligence (ASI)** should not be dictated by a small handful of executives without public accountability, you can do this.
 
