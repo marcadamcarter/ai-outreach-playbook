@@ -11,9 +11,9 @@ Core idea:
 - Results are measured via QR tracking and short after-action reports; learn what works, then replicate.
 
 ## Start here
-- Read the pitch: [`PITCH.md`](./PITCH.md)
-- Sponsor and fulfillment model: [`SPONSORING.md`](./SPONSORING.md)
-- Report results after each event: [`metrics/after-action-report-template.md`](./metrics/after-action-report-template.md)
+- Read the pitch: [`PITCH.md`](/pitch.md)
+- Sponsor and fulfillment model: [`SPONSORING.md`](/sponsoring.md)
+- Report results after each event: [`metrics/after-action-report-template.md`](/metrics/after-action-report-template.md)
 
 ## How it works
 1) **Sponsor ships a Tabling Kit** (flyers, QR cards, stickers, signage; optional banner/tablecloth).
@@ -50,7 +50,7 @@ Typical contents (will evolve as the kit matures):
 4) Receive sponsor kit; run the table; submit AAR after each event.
 
 ## Sponsoring quick start
-1) Read: [`SPONSORING.md`](./SPONSORING.md)
+1) Read: [`SPONSORING.md`](/sponsoring.md)
 2) Open an issue: **Sponsorship: <Org Name>**
 3) Define:
    - your call-to-action (what QR should drive)
