@@ -1,60 +1,79 @@
 # ai-outreach-playbook
 
-Volunteer-led community outreach playbook and print-ready kit for tabling at local events; flyers, QR landing pages, talk tracks, and simple metrics to run repeatable pilots and scale across cities.
+Sponsor-shipped tabling kits plus a volunteer playbook for local, recurring community events; designed to be measurable, repeatable, and easy to replicate across cities.
 
-## What this is
-This repository is a practical “user-group style” outreach system for AI risk awareness:
-- Lower the barrier to entry for people unfamiliar with AI risk and governance topics.
-- Create a repeatable, low-friction on-ramp (short explanations; QR follow-through).
-- Make the work easy for local leaders to run monthly.
-- Measure outcomes so sponsors can fund what works.
+## What this repo is
+This repository is a practical outreach system for local “tabling” at events like [Corpus Christi First Friday Art Walk](https://downtowncorpuschristi.org/events/first-friday-artwalk), farmers markets, campus fairs, and conferences.
 
-This is not a stand-on-a-street-corner model. It is a community event model; art walks, First Friday style events, campus fairs, farmers markets, conferences, and meetups.
+Core idea:
+- Sponsors control quality and messaging by producing and shipping standardized physical kits.
+- Local City Leads do the work; book events, staff the table, and have respectful one-on-one conversations.
+- Results are measured via QR tracking and short after-action reports; learn what works, then replicate.
 
-## Why it should work (the user group parallel)
-I previously helped launch a PowerShell user group community in Texas. The pattern that made that ecosystem grow is the same pattern this playbook is built on:
-- predictable cadence (monthly is ideal)
-- friendly “first exposure” experience
-- a clear next step (join, learn, subscribe, participate)
-- local leaders with shared materials
-- lightweight central support that does not require a core media team to execute events
+## Start here
+- Read the pitch: [`PITCH.md`](./PITCH.md)
+- Sponsor and fulfillment model: [`SPONSORING.md`](./SPONSORING.md)
+- Report results after each event: [`metrics/after-action-report-template.md`](./metrics/after-action-report-template.md)
 
-## The pitch in one paragraph (for sponsors)
-Local volunteers run the actual outreach. Sponsors provide a small set of centralized assets once (print-ready PDFs, banner files, and a mobile landing page) plus optional micro-grants after results are demonstrated. The output is measurable (QR scans, signups, repeat attendance), and the model is replicable across cities.
+## How it works
+1) **Sponsor ships a Tabling Kit** (flyers, QR cards, stickers, signage; optional banner/tablecloth).
+2) **City Lead runs 2 to 3 events** in 60 to 90 days (monthly cadence preferred).
+3) **City Lead submits an After-Action Report** within 72 hours of each event.
+4) **Sponsor iterates the kit** based on real questions, scan data, and conversion outcomes.
 
-## Roles and expectations
+## Who this is for
+### City Leads (volunteers)
+People who can commit to showing up locally and running a table consistently.
 
-### Local City Lead (volunteer)
-The City Lead handles:
-- finding and booking events (vendor booth or informational booth)
-- printing and bringing materials
-- staffing the table (solo or with helpers)
-- collecting metrics and submitting an after-action report
+### Sponsors and partners
+Organizations that want measurable grassroots reach without putting their core team on event operations. Sponsors provide standardized kits, a QR landing page, and tracking.
 
-Recommended “skin in the game” for early pilots:
-- $100 to $200 out-of-pocket to print initial flyers and signage
-- after traction is proven, sponsors can optionally reimburse or provide small micro-grants
+## Repo map
+Typical contents (will evolve as the kit matures):
+- `assets/print/`  
+  Print-ready PDFs and production files for sponsor kits.
+- `talk-tracks/`  
+  Volunteer talk tracks (30 seconds, 2 minutes, 5 minutes) and FAQs.
+- `landing-pages/`  
+  Copy and structure for mobile-first QR landing pages.
+- `metrics/`  
+  After-action templates and examples.
+- `playbooks/`  
+  Step-by-step guides for City Leads; event setup, posture, do and do not lists.
+- `partners/`  
+  Optional partner-specific variants; only with explicit approval for branding.
 
-### Sponsors and partners (low lift)
-Sponsors do not run events. Sponsors can support by providing:
-- a standardized outreach packet (approved messaging and design assets)
-- a simple, mobile-friendly landing page and tracking method
-- optional reimbursements or micro-grants for active cities, after metrics meet a basic threshold
+## City Lead quick start
+1) Open an issue: **City Pilot Request: <City, State>**
+2) Identify a recurring event and confirm booth availability.
+3) Commit to 2 to 3 events and agree to reporting expectations.
+4) Receive sponsor kit; run the table; submit AAR after each event.
 
-## What sponsors can provide (the “packet”)
-Minimum viable packet:
-1) **Flyer (1 page, print-ready PDF)**; QR code plus 30-second explanation
-2) **FAQ sheet (1 page, print-ready PDF)**; answers to common questions
-3) **Table QR signage (small)**; “Scan to learn more” plus a short hook
-4) **Mobile landing page**; designed for QR traffic and quick next steps
-5) **Tracking**; unique QR per city/event (UTM params are fine)
+## Sponsoring quick start
+1) Read: [`SPONSORING.md`](./SPONSORING.md)
+2) Open an issue: **Sponsorship: <Org Name>**
+3) Define:
+   - your call-to-action (what QR should drive)
+   - your minimum kit contents
+   - your fulfillment approach (direct shipping, vendor fulfillment, hybrid)
+   - your reporting threshold for restocks (if any)
 
-Optional upgrades:
-- retractable banner artwork
-- stickers
-- volunteer shirt artwork
-- a short “talk track” card (30 seconds; 2 minutes; 5 minutes)
-- one-page “What you can do next” card (subscribe; join; donate; local meetups)
+## Content and brand notes
+- This repo is organization-neutral by default.
+- Partner branding should only be added with permission and kept under `partners/`.
+- City Leads should not modify sponsor-provided messaging or introduce unapproved claims.
 
-## What this repository includes (planned structure)
-This is a suggested structure; adjust as the kit evolves.
+## Contributing
+Issues and PRs are welcome. High-value contributions:
+- clearer flyer copy for non-technical audiences
+- better QR landing page flow
+- volunteer talk tracks that reduce debate and increase follow-through
+- improvements to the AAR template and reporting consistency
+
+## License
+Recommended (if adopted by the maintainer):
+- Content (docs, PDFs, graphics): CC BY 4.0
+- Code (scripts, generators): MIT
+
+## Disclaimer
+Informational outreach only; nonpartisan; no legal advice; no medical or safety claims.
