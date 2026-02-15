@@ -26,15 +26,6 @@ Community events help because they:
 - build local legitimacy (“normal people are talking about this”)
 - create a feedback loop for better messaging (what questions are people actually asking?)
 
-## A simple consensus statement (2023)
-In 2023, a broad coalition of AI researchers and lab leaders signed a short, plain statement that is easy to understand and hard to dismiss:
-
-> “Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war.”
-
-Source: “Statement on AI Risk” (Center for AI Safety): https://safe.ai/work/press-release-ai-risk
-
-This project exists because that level of concern should not remain confined to elite circles or tech insiders. If you believe the trajectory of AGI and ASI should not be dictated by a small handful of executives without public accountability, and you are willing to engage your community respectfully, you can be a City Lead.
-
 ## You do not have to be convinced about “existential risk”
 Many people do not see AI as an existential threat; some are unsure; some disagree strongly. City Leads do not need to “win” that argument.
 
@@ -103,9 +94,6 @@ If someone is skeptical:
 
 If someone wants to debate:
 - “We try to keep the table informational. The QR links to longer-form resources you can review at your own pace.”
-
-## Shareable blurb for LinkedIn (copy/paste)
-I’m helping build a volunteer “City Lead” model for calm, nonpartisan AI awareness outreach at local community events. Sponsors ship standardized tabling kits (flyers, QR cards, stickers, signage) and a QR landing page; City Leads run booths monthly and submit simple after-action metrics so the model can scale. If you’re interested in piloting this in your city, see: https://github.com/marcadamcarter/ai-outreach-playbook
 
 ## Contact
 Open a GitHub issue as described above; that is the fastest way to coordinate and keep requests organized.
