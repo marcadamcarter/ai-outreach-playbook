@@ -11,10 +11,20 @@ Core idea:
 - Results are measured via QR tracking and short after-action reports; learn what works, then replicate.
 
 ## Start here
-- Read the pitch: [`PITCH.md`](/pitch.md)
-- Sponsor and fulfillment model: [`SPONSORING.md`](/sponsoring.md)
-- Become a City Lead: [`RECRUITING.md`](/RECRUITING.md)
-- Report results after each event: [`metrics/after-action-report-template.md`](/metrics/after-action-report-template.md)
+If you only read one thing, start with: [`START-HERE.md`](/START-HERE.md)
+
+**For Sponsors**
+- How this works and what you get: [`SPONSORING.md`](/sponsoring.md)
+
+**For City Leads**
+- Why this matters and how to get involved: [`RECRUITING.md`](/RECRUITING.md)
+
+**For Measurement**
+- After-Action Report template (copy/paste): [`AAR Template`](/metrics/after-action-report-template.md)
+
+**Background**
+- Full project pitch (1 page): [`PITCH.md`](/pitch.md)
+
 
 ## How it works
 1) **Sponsor ships a Tabling Kit** (flyers, QR cards, stickers, signage; optional banner/tablecloth).
