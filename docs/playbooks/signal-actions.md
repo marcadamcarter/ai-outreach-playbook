@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Mode 2: Signal Actions"
+permalink: /playbooks/signal-actions/
 ---
 
 # Mode 2: Signal Actions

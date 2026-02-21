@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Mode 7: Institutional Touchpoints"
+permalink: /playbooks/institutional-touchpoints/
 ---
 
 # Mode 7: Institutional Touchpoints

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Mode 3: Interactive Booths"
+permalink: /playbooks/interactive-booths/
 ---
 
 # Mode 3: Interactive Booths

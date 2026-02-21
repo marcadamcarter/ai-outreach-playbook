@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Mode 1: Static Presence"
+permalink: /playbooks/static-presence/
 ---
 
 # Mode 1: Static Presence

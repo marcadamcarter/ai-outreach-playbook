@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Mode 6: Individual Advocacy"
+permalink: /playbooks/individual-advocacy/
 ---
 
 # Mode 6: Individual Advocacy

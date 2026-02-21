@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Mode 5: Digital Amplification"
+permalink: /playbooks/digital-amplification/
 ---
 
 # Mode 5: Digital Amplification

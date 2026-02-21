@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Mode 4: Micro-Gatherings"
+permalink: /playbooks/micro-gatherings/
 ---
 
 # Mode 4: Micro-Gatherings
