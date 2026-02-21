@@ -1,14 +1,15 @@
 # After-Action Report (AAR) Template
 
 ## Event details
+- **Mode:** Static Presence / Signal Actions / Interactive Booth / Micro-Gathering / Digital Amplification / Individual Advocacy / Institutional Touchpoint
 - **City, State:**
 - **Event name:**
 - **Date:**
 - **Time on site:**
 - **Venue / location notes:**
 - **Organizer website or contact (optional):**
-- **Booth type:** vendor tent / informational booth / table inside venue
-- **Setup:** 10x10 tent / table only / shared booth
+- **Booth type:** vendor tent / informational booth / table inside venue / open location / meeting room / formal institution *(leave blank if not applicable)*
+- **Setup:** 10x10 tent / table only / shared booth / sign-only / no setup *(leave blank if not applicable)*
 
 ## Staffing
 - **City Lead:**
@@ -87,5 +88,8 @@ Prioritize 1 to 3 changes.
 Avoid faces and identifying details unless you have consent.
 - Photo links:
 
+## Mode-specific notes
+Free text. Record anything specific to your mode that the above fields don't capture (e.g., session discussion highlights for Micro-Gatherings, institution response for Institutional Touchpoints, venue permission details for Static Presence).
+
 ## Tagging (for repo search)
-- **Tags:** pilot / first-time / outdoor / indoor / high-traffic / low-traffic / tent / table-only
+- **Tags:** pilot / first-time / outdoor / indoor / high-traffic / low-traffic / tent / table-only / static / signal / booth / gathering / digital / advocacy / institutional

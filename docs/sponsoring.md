@@ -5,132 +5,105 @@ permalink: /sponsoring/
 
 # Sponsoring ai-outreach-playbook
 
-## Goal
-Enable volunteer-run outreach at local events with sponsor-controlled quality and messaging; sponsors ship standardized physical kits so local leaders do not have to design or print materials themselves.
+## What sponsors do
 
-## Why physical kits (the core idea)
-For this model to scale cleanly, sponsors should control:
-- message consistency (approved copy, claims, and call-to-action)
-- visual quality (design, paper stock, print clarity, durable signage)
-- brand posture (tone, disclaimers, and “what we do not say”)
-- measurement (trackable QR codes tied to kit IDs and events)
+Sponsors enable high-quality, measurable outreach without running operations themselves. Sponsors:
+- Choose which modes to fund (one or many)
+- Approve messaging once; ship standardized materials to vetted volunteers
+- Provide QR landing pages and tracking infrastructure
+- Receive structured reporting (QR scans, conversions, common questions, what worked)
+- Iterate kits only when data suggests a clear improvement
 
-Local leaders should focus on execution:
-- securing booths
-- staffing tables
-- having respectful conversations
-- reporting results
+---
 
-## What sponsors provide
-Sponsors can support this playbook by producing and shipping a “Tabling Kit” to approved local City Leads.
+## What sponsors can fund by mode
 
-### Minimum viable Tabling Kit (physical)
-Suggested contents per kit:
-- Flyers (1 page; high quality paper stock)
-- FAQ cards or half-sheet handouts (quick answers; 1 page)
-- QR cards (business-card sized; durable stock)
+### Mode 1: Static Presence
+Flyers, posters, QR sticker rolls, business cards. Optional: display stands, professionally printed corrugated signs.
+
+### Mode 2: Signal Actions
+Professionally printed corrugated plastic signs (24x36), vinyl banners with grommets, pre-printed sign inventory.
+
+### Mode 3: Interactive Booths (flagship)
+**Minimum viable Tabling Kit:**
+- Flyers (high-quality stock; 1 page)
+- FAQ handout (1 page or half-sheet)
+- QR cards (business-card size; durable stock)
 - Stickers (optional but high engagement)
-- Table signage (folding tabletop sign or rigid sign)
-- Quick talk-track card for volunteers (30 seconds; 2 minutes; 5 minutes)
-- Basic instructions sheet: setup + posture + how to track metrics
+- Table signage (folding tabletop or rigid sign)
+- Talk-track card (30 seconds, 2 minutes, 5 minutes)
+- Setup instructions and reporting checklist
 
-Optional upgrades:
-- retractable banner
-- branded tablecloth
-- volunteer shirts (for multi-person staffing)
-- “hard questions” card (for volunteers only)
+Optional upgrades: retractable banner, branded tablecloth, volunteer shirts.
 
-## Quality and message governance
-To keep sponsors confident and reduce risk:
-- Kits should include a fixed version number (e.g., Kit v1.2) and a kit ID.
-- City Leads agree not to alter messaging, make unapproved claims, or add partisan content.
-- Partner-specific branding and CTAs should live under `/partners/<partner>/` in this repo and be used only with explicit permission.
-- Logos and trademarks must not be used without written approval.
+Each kit gets a version number and kit ID for tracking.
 
-## Fulfillment models (choose what fits your org)
-Sponsors can keep core team time low by selecting one of these approaches:
+### Mode 4: Micro-Gatherings
+Professional slide deck (5–8 slides), printed handouts, QR cards for session follow-up.
 
-### Option A: Sponsor fulfills directly (small pilots)
-- Batch print kits once; ship as requests come in.
-- Works well for 5 to 25 kits.
+### Mode 5: Digital Amplification
+Dedicated landing page, QR code generation with per-campaign tracking, analytics dashboard, short video production (2–3 minutes), social share snippet library.
 
-### Option B: Print-and-fulfill vendor
-- Sponsor provides approved print files; vendor prints, packs, and ships kits.
-- Keeps internal operations minimal; ideal for scaling.
+### Mode 6: Individual Advocacy
+Professionally printed wallet cards with QR, shareable digital card templates.
 
-### Option C: Hybrid
-- Sponsor ships only the items that are hard to print locally (stickers, QR cards, signage).
-- City Leads print low-cost flyers locally if needed.
-- Use only if shipping all materials is not feasible.
+### Mode 7: Institutional Touchpoints
+Professional briefing deck (5–10 slides), 30-minute extended version, printed leave-behind, speaker prep support.
 
-This repository is compatible with any of the above; the recommended default is Option B.
+---
 
-## Suggested sponsor support levels (kit-based)
-These are structure options, not mandates.
+## Fulfillment models
 
-### Level A: Physical kit pilot (small batch)
-- Sponsor ships 5 to 10 kits to vetted City Leads.
-- City Lead commits to 2 to 3 events in 60 to 90 days.
-- City Lead submits after-action reports for each event.
+**Option A: Direct fulfillment** — Batch print and ship. Works for 5–25 kits.
 
-### Level B: Kit + restock (active city maintenance)
-- Sponsor ships an initial kit.
-- Sponsor ships small refills (flyers/QR cards/stickers) after reporting thresholds are met.
-- Prevents volunteer burnout and keeps quality consistent over time.
+**Option B: Print-and-fulfill vendor** — Sponsor provides files; vendor prints, packs, ships. Recommended default.
 
-### Level C: Multi-city campaign (replication test)
-- Sponsor ships kits to 10+ cities.
-- Standardized reporting; compare results across locations and event types.
-- Use results to decide whether to scale further.
+**Option C: Hybrid** — Sponsor ships hard-to-print items; volunteers print flyers locally.
 
-## City Lead requirements (to receive a kit)
-A City Lead requesting sponsor kits agrees to:
-- run at least 2 events (recommended monthly cadence)
-- use sponsor materials as provided; no modifications without approval
-- use sponsor-provided QR tracking links
-- submit an After-Action Report within 72 hours of each event (template in `/metrics/`)
-- avoid collecting sensitive personal data; keep signups opt-in and minimal
-- keep posture informational and respectful; do not argue at the table
+---
 
-## Measurement and reporting
-Each kit should have:
-- a kit ID and a default QR destination (with UTM parameters or equivalent)
-- the ability to generate per-event QR links (city + date)
+## Sponsor support levels
 
-Minimum per-event metrics:
-- flyers/QR cards handed out (estimate)
+**Level A: Single-mode pilot** — Fund one mode; ship 5–10 kits; volunteer commits to 2–3 events in 60–90 days.
+
+**Level B: Kit + restock** — Initial kit + small refills after reporting thresholds are met.
+
+**Level C: Multi-mode campaign** — Fund multiple modes in a coordinated campaign.
+
+**Level D: Multi-city campaign** — 10+ cities; standardized reporting; compare results across locations.
+
+---
+
+## Quality governance
+
+- All kits include a fixed version number and kit ID
+- Volunteers agree not to alter messaging, make unapproved claims, or add partisan content
+- Partner branding lives under `/partners/<partner>/` and requires explicit permission
+
+---
+
+## Measurement
+
+Minimum per-event metrics (all modes):
+- Mode used
+- Materials distributed (estimate)
 - QR scans
-- conversions (as defined by sponsor goal; e.g., signups, joins, subscriptions, donations)
-- top questions asked
-- what worked; what did not; changes for next time
+- Conversions (as defined by sponsor goal)
+- Top questions asked
+- What worked; what didn't; changes for next time
 
-## Cost posture (keep it practical)
-This playbook does not require large budgets.
-- Sponsors can start with a small number of high-quality kits.
-- Restock can be conditional on demonstrated activity and reporting.
-- The goal is a sustainable loop: ship kit; run events; capture metrics; refine materials; repeat.
+---
 
-(Exact per-kit cost depends on quantities and print choices; sponsors can decide what to include in v1.)
+## How to sponsor
 
-## How to sponsor or provide kits
-Open a GitHub issue titled:
-**Sponsorship: <Org Name>**
+Open a GitHub issue titled: **Sponsorship: \<Org Name\>**
 
-Include:
-- preferred fulfillment model (A, B, or C)
-- what the QR should drive (subscribe, join, donate, learn, etc.)
-- brand constraints (tone, topics to avoid, logo rules)
-- what you want in the minimum kit (flyers, QR cards, stickers, signage)
-- how many kits you want to pilot (e.g., 5, 10, 25)
+Include: which modes you want to support, preferred fulfillment model, QR call-to-action, brand constraints, and how many kits to pilot.
 
-## How City Leads request a kit
-Open a GitHub issue titled:
-**City Pilot Request: <City, State>**
+---
 
-Include:
-- target event(s), expected foot traffic if known, and cadence (monthly preferred)
-- staffing plan (solo or team)
-- commitment window (e.g., 60 to 90 days)
-- where kits can be shipped
-- confirmation you will submit after-action reports
+## How volunteers request kits
 
+Open a GitHub issue titled: **City Pilot Request: \<City, State\>**
+
+Include: which mode(s) you want to run, target events, commitment window, and confirmation you will submit AARs.

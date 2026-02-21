@@ -1,99 +1,211 @@
-# Why this matters
+# Get Involved
+
+## Why this matters
 
 In 2023, a broad coalition of AI researchers and lab leaders signed a plain, one-sentence warning:
 
-> “Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war.”
+> "Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war."
 
-Source: Center for AI Safety; “Statement on AI Risk” (2023): https://safe.ai/work/press-release-ai-risk
+Source: Center for AI Safety; "Statement on AI Risk" (2023): https://safe.ai/work/press-release-ai-risk
 
-[I. J. Good](https://en.wikipedia.org/wiki/I._J._Good), one of the earliest voices to describe an “intelligence explosion,” put it in a single sentence:
+[I. J. Good](https://en.wikipedia.org/wiki/I._J._Good), one of the earliest voices to describe an "intelligence explosion," put it in a single sentence:
 
-> “Thus the first ultraintelligent machine is the last invention that man need ever make, **provided that the machine is docile enough to tell us how to keep it under control**.”
+> "Thus the first ultraintelligent machine is the last invention that man need ever make, **provided that the machine is docile enough to tell us how to keep it under control**."
 
+---
 
-# Become a City Lead
+## You can contribute at any effort level
 
-This project helps volunteers run calm, nonpartisan AI awareness outreach at recurring local events (community events, art walks, farmers markets, campus fairs, conferences). Sponsors provide standardized, high-quality tabling kits (flyers, QR cards, stickers, signage) and a QR landing page; City Leads do the on-the-ground work and report simple metrics so the model can improve and scale.
+This project has seven outreach modes. You don't need to commit to all of them — pick the one that fits your situation.
 
-If you can show up consistently and talk to strangers with respect, and you believe the path to **artificial superintelligence (ASI)** should not be dictated by a small handful of executives without public accountability, you can do this.
+| Mode | What it takes | Good for |
+|------|--------------|----------|
+| [Individual Advocacy](playbooks/individual-advocacy.md) | A conversation | Anyone willing to raise the topic with people they know |
+| [Static Presence](playbooks/static-presence.md) | 1–2 hours to place materials | Introverts; people with venue access |
+| [Signal Actions](playbooks/signal-actions.md) | 15–30 minutes with a sign | People who want visible impact with minimal time |
+| [Micro-Gatherings](playbooks/micro-gatherings.md) | 1–2 hours to host a discussion | People comfortable facilitating small groups |
+| [Interactive Booths](playbooks/interactive-booths.md) | Half-day at an event | People who can commit to a monthly cadence (City Lead role) |
+| [Institutional Touchpoints](playbooks/institutional-touchpoints.md) | Variable | People with institutional access or professional credibility |
+| [Digital Amplification](playbooks/digital-amplification.md) | Async | People with web or content skills |
 
-## Why local events like this are needed
-Right now, most communities do not have a visible, approachable “front door” for AI risk and governance questions. People tend to encounter AI through headlines, social media arguments, or product hype; that is not a good way to build shared understanding. Meanwhile, policy and civic institutions usually move slower than technology, and local leaders often hear from constituents only when an issue becomes a crisis.
+---
 
-Community events help because they:
-- reach people who will never seek out AI safety topics on their own
-- create low-pressure first exposure (short explanation, QR link, respectful conversation)
-- build local legitimacy (“normal people are talking about this”)
-- create a feedback loop for better messaging (what questions are people actually asking?)
+## You do not have to be convinced about "existential risk"
 
-## You do not have to be convinced about “existential risk”
-Many people do not see AI as an existential threat; some are unsure; some disagree strongly. City Leads do not need to “win” that argument.
+Many people do not see AI as an existential threat. Some are unsure. Some disagree strongly. Volunteers do not need to "win" that argument.
 
-The purpose of tabling is to:
-- raise awareness that serious experts and institutions debate AI’s long-term risks and governance needs
-- help people form an informed view at their own pace
-- offer credible resources and next steps
-- capture the public’s real questions so messaging improves and sponsors can learn
+The purpose of outreach is to:
+- Raise awareness that serious experts and institutions debate AI's long-term risks and governance needs
+- Help people form an informed view at their own pace
+- Offer credible resources and next steps
+- Capture the public's real questions so messaging improves
 
 If your posture is curiosity, humility, and respect, you are a fit.
 
-## What City Leads do
-City Leads handle operations in their city:
-- Identify a recurring local event with reliable foot traffic (monthly is ideal).
-- Secure a booth or informational table slot.
-- Staff the table (solo is fine; two people is better).
-- Use sponsor-provided materials as-is; do not modify messaging or add unapproved claims.
-- Submit an After-Action Report within 72 hours of each event.
+---
 
-Recommended commitment:
-- 2 to 3 events in 60 to 90 days.
+## Why local outreach matters
 
-## What City Leads do not do
-- Do not debate people at the table; keep it informational and invite follow-up.
-- Do not endorse candidates or parties.
-- Do not collect sensitive personal data.
-- Do not improvise statistics or claims.
+Most communities do not have a visible, approachable entry point for AI risk and governance questions. People encounter AI through headlines, social media, and product hype — not a good foundation for shared understanding. Local outreach helps because it:
+- Reaches people who will never seek out AI safety topics on their own
+- Creates low-pressure first exposure
+- Builds local legitimacy ("normal people are talking about this")
+- Creates a feedback loop for better messaging
 
-## What you get (support)
-Depending on sponsor availability, City Leads may receive:
-- A sponsor-shipped tabling kit (flyers, QR cards, stickers, signage).
-- A simple talk track (30 seconds, 2 minutes, 5 minutes) and FAQ.
-- A mobile QR landing page and tracking links.
-- A reporting template so your work is counted and helps improve the kit.
+---
 
-## What “good” looks like
-You do not need to be a policy expert. You do need to be steady and consistent.
+## Mode details for volunteers
 
-A strong City Lead:
-- can commit to a monthly cadence
-- communicates clearly and politely
-- follows the playbook and uses approved materials
-- reports results on time
-- learns and improves from one event to the next
+### Individual Advocacy — Zero coordination required
 
-## How to get involved
-1) Read the pitch: [`PITCH.md`](/pitch.md)
-2) Read the sponsor model: [`SPONSORING.md`](/sponsoring.md)
-3) Review the After-Action Report template: [`After-Action Report Template`](/metrics/after-action-report-template.md)
-4) Open an issue in this repo titled:
-   **City Pilot Request: <City, State>**
+**What you do:**
+- Have conversations with people you already know (coworkers, friends, family)
+- Share a short video or link when relevant
+- Use the 3 talking points and 60-second explanation guide
 
-Include:
-- the event(s) you want to target and cadence (monthly preferred)
-- expected foot traffic (if known)
-- whether you will staff solo or with others
-- your 60 to 90 day commitment window
-- confirmation you will submit an AAR after each event
+**What you don't need:** a sponsor, an event, a kit, or any coordination.
 
-## Outreach posture (what to say at the table)
-Default opener:
-- “We’re doing local, nonpartisan public awareness on AI. If you’re curious, scan this QR for a quick overview.”
+**Commitment:** None defined — contribute whenever it feels natural.
+
+Read the full guide: [playbooks/individual-advocacy.md](playbooks/individual-advocacy.md)
+
+---
+
+### Static Presence — Passive placement
+
+**What you do:**
+- Place flyers, QR stickers, or business cards in coffee shops, libraries, campuses
+- Ask venue permission (usually quick verbal OK)
+- Restock every 2–4 weeks
+
+**What you need:** printed materials (self-print or sponsor-provided), permission from venues.
+
+**Commitment:** 1–2 hours to place; occasional restocking.
+
+Read the full guide: [playbooks/static-presence.md](playbooks/static-presence.md)
+
+---
+
+### Signal Actions — High-visibility bursts
+
+**What you do:**
+- Hold a sign at a busy intersection or entrance for 15–30 minutes
+- Use legible, bold, 3–5 word messages
+- Optional: bring a small group for more visual impact
+
+**What you need:** a printed or hand-lettered sign. Self-serve.
+
+**Commitment:** 15–30 minutes per session.
+
+Read the full guide: [playbooks/signal-actions.md](playbooks/signal-actions.md)
+
+---
+
+### Micro-Gatherings — Small group discussions
+
+**What you do:**
+- Host a 30-minute structured conversation at a coffee shop, library, or living room
+- Use the 10–15 minute talk structure and discussion prompts
+- Follow up with attendees and point them to next steps
+
+**What you need:** a venue, 3–12 attendees, and the discussion outline.
+
+**Commitment:** 1–2 hours per session (prep + session + follow-up).
+
+Read the full guide: [playbooks/micro-gatherings.md](playbooks/micro-gatherings.md)
+
+---
+
+### Interactive Booths (City Lead role) — Event tabling
+
+**What you do:**
+- Identify and book booth space at recurring community events
+- Staff the table with sponsor-provided materials
+- Use the talk-track; have respectful one-on-one conversations
+- Submit an After-Action Report within 72 hours
+
+**What you need:** a sponsor kit (or print-your-own materials), booth access, 2–4 hours per event.
+
+**Commitment:** 2–3 events in 60–90 days (monthly cadence preferred).
+
+**Do not:**
+- Debate people at the table; keep it informational
+- Endorse candidates or parties
+- Collect sensitive personal data
+- Modify sponsor-provided messaging
+
+Read the full guide: [playbooks/interactive-booths.md](playbooks/interactive-booths.md)
+
+---
+
+### Institutional Touchpoints — Formal engagement
+
+**What you do:**
+- Speak at city council comment periods, school presentations, civic org briefings
+- Use the professional briefing materials and city council script
+- Follow up with staff contacts
+
+**What you need:** institutional access or credibility, briefing materials (self-serve or sponsor-provided).
+
+**Commitment:** varies by format (5-minute comment to 30-minute presentation).
+
+Read the full guide: [playbooks/institutional-touchpoints.md](playbooks/institutional-touchpoints.md)
+
+---
+
+### Digital Amplification — Online and content
+
+**What you do:**
+- Build or improve the Start Here page that all QR codes point to
+- Write social share snippets
+- Manage QR tracking and analytics
+
+**What you need:** basic web or content skills; sponsor infrastructure support.
+
+**Commitment:** initial setup + monthly updates.
+
+Read the full guide: [playbooks/digital-amplification.md](playbooks/digital-amplification.md)
+
+---
+
+## What "good" looks like across all modes
+
+You don't need to be a policy expert. You need to be steady and consistent.
+
+A strong volunteer:
+- Picks a mode that fits their situation and commits to it
+- Uses approved materials and messaging without improvising claims
+- Maintains an informational, nonpartisan posture
+- Reports results so the system improves
+
+---
+
+## Outreach posture (all modes)
+
+Default opener (adapt to context):
+> "I'm sharing information about AI safety policy — it's a nonpartisan topic that doesn't get a lot of local coverage."
 
 If someone is skeptical:
-- “That’s reasonable. We’re not here to argue; we’re here to share resources and collect questions people have.”
+> "That's reasonable. I'm not here to convince you — just to make sure people know the issue exists."
 
 If someone wants to debate:
-- “We try to keep the table informational. The QR links to longer-form resources you can review at your own pace.”
+> "We try to keep this informational. There's a good short overview at the link if you want to look at it on your own time."
 
-## Contact
-Open a GitHub issue as described above; that is the fastest way to coordinate and keep requests organized.
+---
+
+## How to get involved
+
+**For any mode:**
+Read the relevant playbook and start.
+
+**For Interactive Booths (City Lead role):**
+1. Read [pitch.md](pitch.md) and [sponsoring.md](sponsoring.md)
+2. Review the [After-Action Report template](metrics/after-action-report-template.md)
+3. Open an issue titled: **City Pilot Request: \<City, State\>**
+
+Include:
+- Which mode(s) you want to run
+- The event(s) you want to target and cadence
+- Whether you will staff solo or with others
+- Your 60–90 day commitment window
+- Confirmation you will submit AARs after each event

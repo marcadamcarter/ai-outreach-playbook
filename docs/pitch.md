@@ -6,103 +6,92 @@ permalink: /pitch/
 # Pitch: ai-outreach-playbook
 
 ## One sentence
-A volunteer-led, user-group-style outreach system for tabling at local events; sponsors ship standardized, high-quality physical kits (flyers, QR cards, stickers, signage) while local leaders do the execution and report measurable results.
+
+A modular local outreach system for AI safety awareness — seven deployment modes, from placing a flyer in a coffee shop to briefing a city council — with sponsor-controlled kits for modes that need them and self-serve guides for those that don't.
+
+---
 
 ## The problem
-Most people will not start their learning journey by reading long reports or listening to hours of content. They will accept a flyer, scan a QR code, and ask a couple questions when they are already out at a community event. Today, motivated volunteers who want to do local outreach must reinvent materials, printing, and messaging from scratch; quality and consistency suffer.
+
+Most people will not start their learning journey by reading long reports or listening to hours of content. They will accept a flyer, scan a QR code, and ask a couple of questions when they are already out at an event. They'll share a short video a friend sent. They'll remember a sign they saw at an intersection.
+
+Today, motivated volunteers who want to do any of this must reinvent materials, messaging, and operational structure from scratch. Quality and consistency suffer. There is no shared infrastructure.
+
+---
 
 ## The concept
-A sponsor-controlled “Tabling Kit” model that local leaders can run monthly:
-- Sponsors control the message and print quality by producing and shipping kits.
-- City Leads focus on the actual work: securing booths, staffing tables, and having respectful one-on-one conversations.
-- QR landing pages provide a clean “next step” and allow tracking.
-- After-action reports create a feedback loop to improve the kit and prove what works.
 
-This is not a street-corner model. It is a recurring community event model; art walks, First Friday events, farmers markets, campus fairs, conferences, and meetups.
+A modular system where:
+- **Self-serve modes** (Individual Advocacy, Static Presence, Signal Actions) give motivated individuals everything they need to act without waiting for anyone
+- **Sponsor-supported modes** (Interactive Booths, Digital Amplification) give organized efforts the quality and measurement infrastructure they need to scale
+- **Hybrid modes** (Micro-Gatherings, Institutional Touchpoints) can run either way depending on what's available
 
-## Why I think it will work (the user group parallel)
+Every mode uses the same communication standard — the 3-Layer Message Model — and routes to the same measurement infrastructure (QR tracking, after-action reports).
+
+---
+
+## Why the user-group parallel
+
 I personally saw how user groups flattened the learning curve for unfamiliar technology:
-- predictable cadence (monthly)
-- low-pressure first contact
-- a clear next step (resources, subscribe, join, donate, attend)
-- shared materials and simple “talk tracks”
-- local leaders running the work with minimal central overhead
+- Predictable cadence (monthly)
+- Low-pressure first contact
+- A clear next step (resources, subscribe, join, attend)
+- Shared materials and simple talk-tracks
+- Local leaders running the work with minimal central overhead
 
-This playbook applies that pattern to public-facing AI risk awareness.
+This playbook applies that pattern to public-facing AI risk awareness — extended across all the formats in which people actually encounter ideas in communities.
 
-## What makes this sponsor-friendly
-Sponsors do not run events and do not coordinate booths. Sponsors:
-- approve the message once
-- ship standardized kits to vetted City Leads
-- receive measurable reporting (QR scans, conversions, common questions, what worked)
-- iterate only when data suggests a clear improvement
+---
 
-This keeps the sponsor’s core production team out of operational work.
+## The 7 Modes
 
-## Roles
+| Mode | Effort | Sponsor needed? |
+|------|--------|-----------------|
+| Static Presence (flyers, QR stickers) | Very low | Optional |
+| Signal Actions (corner signs, flash presence) | Very low | Optional |
+| Interactive Booths (tabling at events) | Moderate | Supported |
+| Micro-Gatherings (coffee shop discussions) | Low-moderate | Optional |
+| Digital Amplification (landing pages, QR destinations) | Async | Supported |
+| Individual Advocacy (workplace, personal conversations) | Zero | Not required |
+| Institutional Touchpoints (city council, schools, civic orgs) | Variable | Optional |
 
-### Local City Lead (volunteer)
-City Leads handle:
-- identifying and booking events (vendor booth or informational booth)
-- staffing the table (solo or with helpers)
-- using sponsor-provided materials as-is
-- submitting an After-Action Report within 72 hours of each event
+---
 
-Recommended commitment:
-- 2 to 3 events in 60 to 90 days (monthly cadence preferred)
+## How sponsors engage
 
-### Sponsors / partners
-Sponsors handle:
-- producing and shipping Tabling Kits (quality and message control)
-- providing QR landing pages and tracking links
-- optional restocks based on demonstrated activity and reporting
+Sponsors do not run events and do not coordinate field operations. Sponsors:
+- Choose which modes to fund (most sponsors start with Interactive Booths + Digital Amplification)
+- Approve messaging once; ship standardized kits to vetted City Leads
+- Provide QR landing pages and tracking links
+- Receive measurable reporting (QR scans, conversions, common questions, what worked)
+- Iterate only when data suggests a clear improvement
 
-## The sponsor “Tabling Kit” (what I’m asking you to provide)
-Minimum viable kit (physical):
-- Flyers (high quality stock)
-- FAQ handout (1 page or half-sheet)
-- QR cards (business card size; durable)
-- Stickers (optional but high engagement)
-- Table signage (folding tabletop sign or rigid sign)
-- Volunteer talk-track card (30 seconds; 2 minutes; 5 minutes)
-- One-page setup/instructions sheet and reporting checklist
-
-Optional upgrades:
-- corrugated plastic signs
-- volunteer shirts
-- giveaway items (stickers, buttons, shirts.)
-- “hard questions” card (for volunteers only)
-
-Each kit should have a version number (e.g., v1.2) and kit ID for tracking and iteration.
-
-## What I will deliver
-For an initial pilot:
-- operate 2 to 3 events over 60 to 90 days using sponsor-provided kit materials
-- publish After-Action Reports in this repo (metrics + common questions + what changed)
-- produce a City Lead playbook that other cities can follow without reinventing anything
-- recommend kit refinements based on real event feedback
+---
 
 ## How success is measured
-Minimum per event:
-- flyers/QR cards handed out (estimate)
-- QR scans
-- conversions (as defined by sponsor goal; signups, joins, subscriptions, donations, etc.)
-- top questions asked
-- what worked; what failed; what changes next time
 
-Example “unlock” threshold for restock support:
+Every mode routes to the same measurement layer:
+- QR tracking (per-mode, per-location codes)
+- After-action reports (standardized template)
+- Conversions defined by sponsor goal
+
+Example restock threshold for Interactive Booths:
 - 2 events completed
 - 50 total QR scans
-- 10 conversions (definition depends on sponsor goal)
-- After-Action Reports submitted for each event
+- 10 conversions
+- AARs submitted for each event
 
-## Why this can support multiple efforts without forcing one brand
-This repo is organization-neutral. Different initiatives can ship their own kit variant and landing page while using the same operational playbook and reporting structure. That allows sponsors with different tones and calls-to-action to benefit from the same volunteer infrastructure.
+---
 
-## Next step
-If you are interested in piloting this approach:
-- decide what your QR should drive (subscribe, join, donate, attend, learn)
-- define your minimum kit contents
-- ship one kit for the Corpus Christi pilot
-- I run the pilot and report results; we refine based on data
+## Why this works across multiple sponsors
 
+This repo is organization-neutral. Different initiatives can ship their own kit variant and landing page while using the same operational playbook, volunteer infrastructure, and reporting structure.
+
+---
+
+## Next step for interested sponsors
+
+1. Decide which modes you want to support
+2. Define your call-to-action (what QR should drive)
+3. Define your minimum kit contents for each mode
+4. Open an issue: **Sponsorship: \<Org Name\>**

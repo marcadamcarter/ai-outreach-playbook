@@ -1,90 +1,98 @@
 # ai-outreach-playbook
 
-Sponsor-shipped tabling kits plus a volunteer playbook for local, recurring community events; designed to be measurable, repeatable, and easy to replicate across cities.
+A modular system for local AI risk awareness outreach. Seven deployment modes — from placing a flyer in a coffee shop to briefing a city council — each with its own playbook, effort level, and sponsor posture.
 
 ## What this repo is
-This repository is a practical outreach system for local “tabling” at events like [Corpus Christi First Friday Art Walk](https://downtowncorpuschristi.org/events/first-friday-artwalk), farmers markets, campus fairs, and conferences.
 
-Core idea:
-- Sponsors control quality and messaging by producing and shipping standardized physical kits.
-- Local City Leads do the work; book events, staff the table, and have respectful one-on-one conversations.
-- Results are measured via QR tracking and short after-action reports; learn what works, then replicate.
+A practical toolkit for anyone who wants to raise local awareness about AI oversight and safety policy. Modes range from zero-coordination individual advocacy to sponsor-supported tabling operations at community events.
+
+Core principles:
+- Match the mode to the volunteer's situation and commitment level
+- Sponsors control messaging quality when they're involved; self-serve modes work without them
+- Every mode routes to a measurable outcome (QR tracking, after-action reports)
+- Learn what works, then replicate
+
+## The 7 Modes
+
+| # | Mode | Effort | Reach | Sponsor needed? |
+|---|------|--------|-------|-----------------|
+| 1 | [Static Presence](playbooks/static-presence.md) | Very low | Passive | Optional |
+| 2 | [Signal Actions](playbooks/signal-actions.md) | Very low | High-visibility bursts | Optional |
+| 3 | [Interactive Booths](playbooks/interactive-booths.md) | Moderate | Deep engagement | Supported |
+| 4 | [Micro-Gatherings](playbooks/micro-gatherings.md) | Low-moderate | High depth | Optional |
+| 5 | [Digital Amplification](playbooks/digital-amplification.md) | Async | Unlimited scale | Supported |
+| 6 | [Individual Advocacy](playbooks/individual-advocacy.md) | Zero coordination | Personal networks | Not required |
+| 7 | [Institutional Touchpoints](playbooks/institutional-touchpoints.md) | High leverage | Decision-makers | Optional |
+
+See [core-model.md](core-model.md) for the strategic rationale behind each mode.
 
 ## Start here
-If you only read one thing, start with: [`START-HERE.md`](/START-HERE.md)
+
+If you only read one thing: [START-HERE.md](START-HERE.md)
 
 **For Sponsors**
-- How this works and what you get: [`SPONSORING.md`](/sponsoring.md)
+- What you can fund and how: [sponsoring.md](sponsoring.md)
 
-**For City Leads**
-- Why this matters and how to get involved: [`RECRUITING.md`](/RECRUITING.md)
+**For City Leads and Volunteers**
+- Why this matters and how to get involved: [RECRUITING.md](RECRUITING.md)
 
 **For Measurement**
-- After-Action Report template (copy/paste): [`AAR Template`](/metrics/after-action-report-template.md)
+- After-Action Report template: [metrics/after-action-report-template.md](metrics/after-action-report-template.md)
 
 **Background**
-- Full project pitch (1 page): [`PITCH.md`](/pitch.md)
+- Full project pitch: [pitch.md](pitch.md)
 
+## Quick starts by role
 
-## How it works
-1) **Sponsor ships a Tabling Kit** (flyers, QR cards, stickers, signage; optional banner/tablecloth).
-2) **City Lead runs 2 to 3 events** in 60 to 90 days (monthly cadence preferred).
-3) **City Lead submits an After-Action Report** within 72 hours of each event.
-4) **Sponsor iterates the kit** based on real questions, scan data, and conversion outcomes.
+### Solo Advocate (no coordination needed)
+1. Read [Individual Advocacy](playbooks/individual-advocacy.md)
+2. Know the [3 talking points](playbooks/individual-advocacy.md#the-3-talking-points)
+3. Contribute on your own schedule
 
-## Who this is for
-### City Leads (volunteers)
-People who can commit to showing up locally and running a table consistently.
+### City Lead (event-based outreach)
+1. Read [RECRUITING.md](RECRUITING.md)
+2. Choose your mode(s) — most City Leads start with [Interactive Booths](playbooks/interactive-booths.md)
+3. Open an issue: **City Pilot Request: \<City, State\>**
+4. Run events; submit AARs
 
-### Sponsors and partners
-Organizations that want measurable grassroots reach without putting their core team on event operations. Sponsors provide standardized kits, a QR landing page, and tracking.
+### Sponsor
+1. Read [sponsoring.md](sponsoring.md)
+2. Choose which modes to fund
+3. Open an issue: **Sponsorship: \<Org Name\>**
 
-## Repo map
-Typical contents (will evolve as the kit matures):
-- `assets/print/`  
-  Print-ready PDFs and production files for sponsor kits.
-- `talk-tracks/`  
-  Volunteer talk tracks (30 seconds, 2 minutes, 5 minutes) and FAQs.
-- `landing-pages/`  
-  Copy and structure for mobile-first QR landing pages.
-- `metrics/`  
-  After-action templates and examples.
-- `playbooks/`  
-  Step-by-step guides for City Leads; event setup, posture, do and do not lists.
-- `partners/`  
-  Optional partner-specific variants; only with explicit approval for branding.
+## Repo structure
 
-## City Lead quick start
-1) Open an issue: **City Pilot Request: <City, State>**
-2) Identify a recurring event and confirm booth availability.
-3) Commit to 2 to 3 events and agree to reporting expectations.
-4) Receive sponsor kit; run the table; submit AAR after each event.
+```
+playbooks/         Mode-by-mode operational guides
+metrics/           After-Action Report template and examples
+docs/              Public-facing Jekyll site (mirrors key files)
+core-model.md      Strategic overview of all 7 modes
+pitch.md           One-page project pitch
+RECRUITING.md      Volunteer onboarding guide
+sponsoring.md      Sponsor guide
+```
 
-## Sponsoring quick start
-1) Read: [`SPONSORING.md`](/sponsoring.md)
-2) Open an issue: **Sponsorship: <Org Name>**
-3) Define:
-   - your call-to-action (what QR should drive)
-   - your minimum kit contents
-   - your fulfillment approach (direct shipping, vendor fulfillment, hybrid)
-   - your reporting threshold for restocks (if any)
+## Communication standard
 
-## Content and brand notes
-- This repo is organization-neutral by default.
-- Partner branding should only be added with permission and kept under `partners/`.
-- City Leads should not modify sponsor-provided messaging or introduce unapproved claims.
+All assets across all modes follow the 3-Layer Message Model:
+1. Hook: 2–5 words
+2. Core idea: one sentence
+3. Action: QR code or next step
+
+Assets that add a fourth element should be rejected. See [core-model.md](core-model.md).
 
 ## Contributing
-Issues and PRs are welcome. High-value contributions:
-- clearer flyer copy for non-technical audiences
-- better QR landing page flow
-- volunteer talk tracks that reduce debate and increase follow-through
-- improvements to the AAR template and reporting consistency
+
+Issues and PRs welcome. High-value contributions:
+- Talk-tracks that reduce debate and increase follow-through
+- Flyer copy that works for non-technical audiences
+- AAR examples from completed events
+- Mode-specific improvements based on field experience
 
 ## License
-Recommended (if adopted by the maintainer):
-- Content (docs, PDFs, graphics): CC BY 4.0
-- Code (scripts, generators): MIT
+
+Content (docs): CC BY 4.0 | Code (scripts): MIT
 
 ## Disclaimer
-Informational outreach only; nonpartisan; no legal advice; no medical or safety claims.
+
+Informational outreach only. Nonpartisan. No legal, medical, or safety claims.
