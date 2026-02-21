@@ -97,7 +97,7 @@ Keep it under 3 minutes. Authenticity beats production value.
 
 ## Related Playbooks
 
-- [Static Presence](static-presence.html) — physical materials pointing to your QR
-- [Signal Actions](signal-actions.html) — high-visibility placements driving QR traffic
-- [Interactive Booths](interactive-booths.html) — in-person events with QR card distribution
-- [Individual Advocacy](individual-advocacy.html) — personal sharing of your digital content
+- [Static Presence](../static-presence/) — physical materials pointing to your QR
+- [Signal Actions](../signal-actions/) — high-visibility placements driving QR traffic
+- [Interactive Booths](../interactive-booths/) — in-person events with QR card distribution
+- [Individual Advocacy](../individual-advocacy/) — personal sharing of your digital content

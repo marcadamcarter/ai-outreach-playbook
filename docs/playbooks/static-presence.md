@@ -90,6 +90,6 @@ When filing your AAR for this mode, note:
 
 ## Related Playbooks
 
-- [Signal Actions](signal-actions.html) — add brief human presence to your static placements
-- [Digital Amplification](digital-amplification.html) — the QR destination those materials point to
-- [Individual Advocacy](individual-advocacy.html) — next step for anyone who scans your QR
+- [Signal Actions](../signal-actions/) — add brief human presence to your static placements
+- [Digital Amplification](../digital-amplification/) — the QR destination those materials point to
+- [Individual Advocacy](../individual-advocacy/) — next step for anyone who scans your QR

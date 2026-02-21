@@ -95,6 +95,6 @@ Structured engagement at events. Shift from "information booth" to experience bo
 
 ## Related Playbooks
 
-- [Micro-Gatherings](micro-gatherings.html) — for people who want to go deeper after the booth
-- [Signal Actions](signal-actions.html) — pre-event visibility boost near the venue
-- [Digital Amplification](digital-amplification.html) — the QR destination your cards point to
+- [Micro-Gatherings](../micro-gatherings/) — for people who want to go deeper after the booth
+- [Signal Actions](../signal-actions/) — pre-event visibility boost near the venue
+- [Digital Amplification](../digital-amplification/) — the QR destination your cards point to

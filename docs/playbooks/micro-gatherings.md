@@ -89,7 +89,7 @@ Give one clear ask: attend a future event, sign up as a City Lead, or share with
 
 ## Related Playbooks
 
-- [Interactive Booths](interactive-booths.html) — for attendees ready to staff a table
-- [Institutional Touchpoints](institutional-touchpoints.html) — for attendees with institutional access
-- [Individual Advocacy](individual-advocacy.html) — for attendees who want to act independently
-- [Digital Amplification](digital-amplification.html) — follow-up content to send after the session
+- [Interactive Booths](../interactive-booths/) — for attendees ready to staff a table
+- [Institutional Touchpoints](../institutional-touchpoints/) — for attendees with institutional access
+- [Individual Advocacy](../individual-advocacy/) — for attendees who want to act independently
+- [Digital Amplification](../digital-amplification/) — follow-up content to send after the session

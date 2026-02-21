@@ -91,5 +91,5 @@ Request 10–15 minutes on an existing agenda. Frame as relevant to the organiza
 
 ## Related Playbooks
 
-- [Micro-Gatherings](micro-gatherings.html) — follow-up engagement for staff who express interest
-- [Digital Amplification](digital-amplification.html) — leave-behind resources for institutional contacts
+- [Micro-Gatherings](../micro-gatherings/) — follow-up engagement for staff who express interest
+- [Digital Amplification](../digital-amplification/) — leave-behind resources for institutional contacts

@@ -82,6 +82,6 @@ Quality of share matters more than quantity.
 
 ## Related Playbooks
 
-- [Micro-Gatherings](micro-gatherings.html) — for people in your network who want to go deeper
-- [Digital Amplification](digital-amplification.html) — the resources you're sharing
-- [Interactive Booths](interactive-booths.html) — for when you're ready to staff a table
+- [Micro-Gatherings](../micro-gatherings/) — for people in your network who want to go deeper
+- [Digital Amplification](../digital-amplification/) — the resources you're sharing
+- [Interactive Booths](../interactive-booths/) — for when you're ready to staff a table

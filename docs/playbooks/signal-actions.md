@@ -111,6 +111,6 @@ When filing your AAR for this mode:
 
 ## Related Playbooks
 
-- [Static Presence](static-presence.html) — leave materials at the location after your session
-- [Interactive Booths](interactive-booths.html) — upgrade to sustained engagement with a table setup
-- [Digital Amplification](digital-amplification.html) — the QR destination your signs point to
+- [Static Presence](../static-presence/) — leave materials at the location after your session
+- [Interactive Booths](../interactive-booths/) — upgrade to sustained engagement with a table setup
+- [Digital Amplification](../digital-amplification/) — the QR destination your signs point to
