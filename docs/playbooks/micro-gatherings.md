@@ -4,6 +4,8 @@ title: "Mode 4: Micro-Gatherings"
 permalink: /playbooks/micro-gatherings/
 ---
 
+[← Home]({{ "/" | relative_url }})
+
 # Mode 4: Micro-Gatherings
 
 **Effort: Low Scale · Reach: High Depth · Sponsor: Optional**

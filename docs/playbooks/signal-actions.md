@@ -4,6 +4,8 @@ title: "Mode 2: Signal Actions"
 permalink: /playbooks/signal-actions/
 ---
 
+[← Home]({{ "/" | relative_url }})
+
 # Mode 2: Signal Actions
 
 **Effort: Very Low · Reach: High Visibility Bursts · Sponsor: Optional**

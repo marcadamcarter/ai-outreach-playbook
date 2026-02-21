@@ -4,6 +4,8 @@ title: "Mode 3: Interactive Booths"
 permalink: /playbooks/interactive-booths/
 ---
 
+[← Home]({{ "/" | relative_url }})
+
 # Mode 3: Interactive Booths
 
 **Effort: Moderate · Reach: Deep Engagement · Sponsor: Supported**

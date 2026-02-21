@@ -4,6 +4,8 @@ title: "Mode 5: Digital Amplification"
 permalink: /playbooks/digital-amplification/
 ---
 
+[← Home]({{ "/" | relative_url }})
+
 # Mode 5: Digital Amplification
 
 **Effort: Asynchronous · Reach: Unlimited Scale · Sponsor: Supported**

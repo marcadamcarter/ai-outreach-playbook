@@ -4,6 +4,8 @@ title: "Mode 1: Static Presence"
 permalink: /playbooks/static-presence/
 ---
 
+[← Home]({{ "/" | relative_url }})
+
 # Mode 1: Static Presence
 
 **Effort: Low · Reach: Passive · Sponsor: Optional**
