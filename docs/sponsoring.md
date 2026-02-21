@@ -3,6 +3,8 @@ title: Sponsoring
 permalink: /sponsoring/
 ---
 
+[← Back]({{ "/" | relative_url }})
+
 # Sponsoring ai-outreach-playbook
 
 ## What sponsors do

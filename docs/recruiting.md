@@ -3,6 +3,8 @@ title: Get Involved
 permalink: /recruiting/
 ---
 
+[← Back]({{ "/" | relative_url }})
+
 # Get Involved
 
 ## Why this matters

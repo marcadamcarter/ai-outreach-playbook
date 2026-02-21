@@ -4,7 +4,7 @@ title: "Mode 4: Micro-Gatherings"
 permalink: /playbooks/micro-gatherings/
 ---
 
-[← Home]({{ "/" | relative_url }})
+[← Back]({{ "/" | relative_url }})
 
 # Mode 4: Micro-Gatherings
 

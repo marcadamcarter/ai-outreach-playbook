@@ -4,7 +4,7 @@ title: "Mode 6: Individual Advocacy"
 permalink: /playbooks/individual-advocacy/
 ---
 
-[← Home]({{ "/" | relative_url }})
+[← Back]({{ "/" | relative_url }})
 
 # Mode 6: Individual Advocacy
 

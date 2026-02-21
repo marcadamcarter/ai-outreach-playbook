@@ -3,6 +3,8 @@ title: After-Action Report
 permalink: /aar/
 ---
 
+[← Back]({{ "/" | relative_url }})
+
 # After-Action Report (AAR) Template
 
 ## Event details

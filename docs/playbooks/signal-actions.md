@@ -4,7 +4,7 @@ title: "Mode 2: Signal Actions"
 permalink: /playbooks/signal-actions/
 ---
 
-[← Home]({{ "/" | relative_url }})
+[← Back]({{ "/" | relative_url }})
 
 # Mode 2: Signal Actions
 

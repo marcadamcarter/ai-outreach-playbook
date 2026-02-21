@@ -4,7 +4,7 @@ title: "Mode 5: Digital Amplification"
 permalink: /playbooks/digital-amplification/
 ---
 
-[← Home]({{ "/" | relative_url }})
+[← Back]({{ "/" | relative_url }})
 
 # Mode 5: Digital Amplification
 

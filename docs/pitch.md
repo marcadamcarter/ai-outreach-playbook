@@ -3,6 +3,8 @@ title: Pitch
 permalink: /pitch/
 ---
 
+[← Back]({{ "/" | relative_url }})
+
 # Pitch: ai-outreach-playbook
 
 ## One sentence
