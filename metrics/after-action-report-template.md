@@ -1,5 +1,7 @@
 # After-Action Report (AAR) Template
 
+**Submit your AAR online:** [ai-outreach-leads.netlify.app](https://ai-outreach-leads.netlify.app/)
+
 ## Event details
 - **Mode:** Static Presence / Signal Actions / Interactive Booth / Micro-Gathering / Digital Amplification / Individual Advocacy / Institutional Touchpoint
 - **City, State:**
