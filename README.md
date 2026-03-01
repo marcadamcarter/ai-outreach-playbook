@@ -35,6 +35,7 @@ If you only read one thing: [START-HERE.md](START-HERE.md)
 
 **For City Leads and Volunteers**
 - Why this matters and how to get involved: [RECRUITING.md](RECRUITING.md)
+- Live Proof of Concept (POC) [github.io/ai-outreach-playbook](https://marcadamcarter.github.io/ai-outreach-playbook/)
 
 **For Measurement**
 - After-Action Report template: [metrics/after-action-report-template.md](metrics/after-action-report-template.md)
