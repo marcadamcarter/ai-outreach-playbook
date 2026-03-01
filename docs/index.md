@@ -28,9 +28,9 @@ A modular system for local AI safety awareness outreach. Seven deployment modes 
 
 ## Take action
 
-- Check out [How it Works:](https://ai-outreach-leads.netlify.app/)
-- Become a City Lead: [sign up](https://ai-outreach-leads.netlify.app/signup.html)
+- Check out [How it Works](https://ai-outreach-leads.netlify.app/)
+- Become a City Lead: [Sign Up Here](https://ai-outreach-leads.netlify.app/signup.html)
 - Submit an After-Action Report: [AAR form](https://ai-outreach-leads.netlify.app/aar.html)
 
-- Repo (source of truth): https://github.com/marcadamcarter/ai-outreach-playbook
-- Repo (City Leads): https://github.com/marcadamcarter/ai-outreach-leads
+- Repo (Outreach Playbook): [https://github.com/marcadamcarter/ai-outreach-playbook](https://github.com/marcadamcarter/ai-outreach-playbook)
+- Repo (City Leads): [https://github.com/marcadamcarter/ai-outreach-leads](https://github.com/marcadamcarter/ai-outreach-leads)
