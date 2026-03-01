@@ -57,7 +57,7 @@ Structured engagement at events. Shift from "information booth" to experience bo
 
 ### Banner Example
 
-![Interactive Booth Banner Proof](../../assets/interactive-booth-banner-proof.JPG)
+![Interactive Booth Banner Proof](../assets/interactive-booth-banner-proof.JPG)
 
 ---
 
