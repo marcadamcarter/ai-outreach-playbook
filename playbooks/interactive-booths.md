@@ -47,6 +47,10 @@ Structured engagement at events. Shift from "information booth" to experience bo
 - Core question displayed prominently: "Would you trust AI to run your city?"
 - QR code visible from the front of the table
 
+### Banner Example
+
+![Interactive Booth Banner Proof](../docs/assets/interactive-booth-banner-proof.JPG)
+
 ---
 
 ## Step-by-Step Setup
