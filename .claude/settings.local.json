@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(node --version:*)"
+      "Bash(node --version:*)",
+      "Bash(mkdir:*)",
+      "WebFetch(domain:ai-outreach-leads.netlify.app)"
     ]
   }
 }
